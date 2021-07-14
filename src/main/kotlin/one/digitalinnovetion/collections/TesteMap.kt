@@ -20,7 +20,4 @@ fun main(){
     }
 
 
-    val idades = intArrayOf(10, 20, 21, 22, 30, 31, 40, 43, 50)
-    val result = idades.any{it>31}
-    print(result)
 }
